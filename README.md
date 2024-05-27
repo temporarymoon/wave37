@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/wave37](https://github.com/prescientmoon/wave37) 🚧
 # Wave 37
 
 Game I made like a year ago for the procedually generation game jam.
